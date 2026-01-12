@@ -1,6 +1,5 @@
 import type { Meta, StoryObj } from "@storybook/react-vite";
 import { PriceTrendChart } from "./PriceTrendChart";
-import type { HandMetal } from "lucide-react";
 import { subDays } from "date-fns";
 
 const meta: Meta<typeof PriceTrendChart> = {
