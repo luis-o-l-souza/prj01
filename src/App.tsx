@@ -27,10 +27,7 @@ function App() {
         <div className='container mx-auto py-4 flex items-center justify-between'>
           <div className='flex items-center gap-2'>
 
-        <div className='h-8 w-8 bg-primary rounded-lg flex items-center justify-center text-primary-foreground font-bold'>
-          P
-        </div>
-          <h1 className='text-xl font-bold'>PRJ01</h1>
+          <h1 className='text-xl font-bold'>Testing the pipeline!!!</h1>
           </div>
           <ModeToggle />
         </div>
